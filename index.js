@@ -1,5 +1,5 @@
-import * as hello from "./src/hello.js";
+import * as hello from './src/hello.js';
 
-export default { 
-  hello
+export default {
+  hello,
 };
